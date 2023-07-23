@@ -1,0 +1,542 @@
+[
+    {
+        "id": 1,
+        "name": "laptop",
+        "service_tag": "vostro 3510",
+        "model": "15",
+        "price": 36490,
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/15-3510/media-gallery/archive/dv3510nt_cnb_05000ff090_gy.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=606&qlt=100,1&resMode=sharp2&size=606,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/15-3510/media-gallery/archive/dv3510nt_cnb_00055lf110_gy-usb-c.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=653&qlt=100,1&resMode=sharp2&size=653,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/15-3510/media-gallery/archive/dv3510nt_cnb_00060lb055_gy.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=566&qlt=100,1&resMode=sharp2&size=566,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/15-3510/media-gallery/archive/dv3510nt_cnb_00180bf090_gy.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=603&qlt=100,1&resMode=sharp2&size=603,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/15-3510/media-gallery/archive/dv3510nt_cnb_90000td110_gy-fpr.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=553&qlt=100,1&resMode=sharp2&size=553,402&chrss=full",
+        "configuration": "11th Gen Intel",
+        "specifications": {
+            "processor": "11th Gen Intel® Core™ i3-1115G4 (6 MB cache, 2 cores, 4 threads, up to 4.10 GHz Turbo)",
+            "os": "Windows 11 Home Single Language, English",
+            "video_card": "Intel® UHD Graphics",
+            "memory": "8 GB, 1 x 8 GB, DDR4, 2666 MHz",
+            "display": "15.6, FHD 1920 * 1080, 60Hz, WVA, Non-Touch, Anti-Glare, Narrow Border, LED-Backlit",
+            "keyboard": "English International non-backlit keyboard with numeric keypad"
+        },
+        "performance": [
+            "Everyday tasks are quickly handled with ease using 11th Gen Intel® Core™ processors.",
+            "Enjoy extra power and optimal everyday performance when you opt for NVIDIA® GeForce® MX350 with 2GB GDDR5 discrete graphics. Only available in combination with 11th Gen Intel® Core™ processors.",
+            "With a 41 Whr battery, you know you can rely on your device to power through the day.",
+            "Untether from the wall and get worry free power on the go with an 80% charge in one hour using Express Charge."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "laptop",
+        "service_tag": "vostro 5630",
+        "model": "16",
+        "price": 77590,
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/vostro-16-5630/media-gallery/fpr/notebook-vostro-16-5630-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=530&qlt=100,1&resMode=sharp2&size=530,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/vostro-16-5630/media-gallery/fpr/notebook-vostro-16-5630-gray-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=634&qlt=100,1&resMode=sharp2&size=634,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/vostro-16-5630/media-gallery/notebook-vostro-16-5630-gray-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=701&qlt=100,1&resMode=sharp2&size=701,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/vostro-16-5630/media-gallery/fpr/notebook-vostro-16-5630-gray-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=522&qlt=100,1&resMode=sharp2&size=522,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/vostro-16-5630/media-gallery/notebook-vostro-16-5630-gray-gallery-6.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=591&qlt=100,1&resMode=sharp2&size=591,402&chrss=full",
+        "configuration": "13th Gen Intel",
+        "specifications": {
+            "processor": "13th Gen Intel® Core™ i5-1335U (12 MB cache, 10 cores, 12 threads, up to 4.60 GHz Turbo)",
+            "os": "Windows 11 Home Single Language, English",
+            "video_card": "Intel® Iris® Xe Graphics",
+            "memory": "16GB, 2x8GB, 4800MHz LPDDR5 Memory Onboard",
+            "display": "16.0-inch 16:10 FHD+ (1920 x 1200) Anti-Glare Non-Touch 250nits WVA Display with ComfortView Support",
+            "keyboard": "Apollo English International Backlit Keyboard"
+        },
+        "performance": [
+            "A 16:10 aspect ratio in a 16-inch form factor means even more screen space for reviewing spreadsheets, purchase orders and perfecting presentations, all in a slim, lightweight design.",
+            "Thanks to 13th Gen Intel® Core™ processors, this laptop runs at peak performance to get you through the day. Doing some graphics-heavy work? Optional NVIDIA® RTX 2050 Graphics give you the boost you need.",
+            "Stay focused with 4 sided narrow borders and FHD+ display with DC Dimming, which reduces flicker for a comfortable viewing experience. Plus, this laptop with Dell ComfortView software technology helps reduce harmful blue light emissions to optimise eye comfort over extended screen time.",
+            "Impressions matter. Sound as clear as a phone call with built in dual mic and AI that reduces background noise. The new FHD webcam equipped with Wide Dynamic Range and Temporal Noise Reduction improves image quality to help you look your best while on camera."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "laptop",
+        "service_tag": "vostro 5620",
+        "model": "16",
+        "price": 75589,
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/vostro-16-5620/assets/media-gallery/gy/vostro-16-5620-nt-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=633&qlt=100,1&resMode=sharp2&size=633,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/vostro-16-5620/assets/media-gallery/gy/vostro-16-5620-nt-gallery-7.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=690&qlt=100,1&resMode=sharp2&size=690,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/vostro-16-5620/assets/media-gallery/gy/vostro-16-5620-nt-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=702&qlt=100,1&resMode=sharp2&size=702,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/vostro-16-5620/assets/media-gallery/gy/vostro-16-5620-nt-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=522&qlt=100,1&resMode=sharp2&size=522,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/vostro-16-5620/assets/media-gallery/gy/vostro-16-5620-nt-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=583&qlt=100,1&resMode=sharp2&size=583,402&chrss=full",
+        "configuration": "12th Gen Intel",
+        "specifications": {
+            "processor": "12th Gen Intel® Core™ i5-1240P (12 MB cache, 12 cores, 16 threads, up to 4.40 GHz Turbo)",
+            "os": "(Dell Technologies recommends Windows 11 Pro for business) Windows 11 Home Single Language, English",
+            "video_card": "Intel® Iris® Xe Graphics",
+            "memory": "16 GB, 2 x 8 GB, DDR4, 3200 MHz",
+            "display": "16, FHD+ 1920 x 1200, 60Hz, WVA, Non-Touch, Anti-Glare, 250 nit, Narrow Border, ComfortView Support",
+            "keyboard": "Apollo English International Backlit Keyboard"
+        },
+        "performance": [
+            "A 16:10 aspect ratio in a 40.64cm (16 Inch) form factor means even more screen space for reviewing spreadsheets, purchase orders and perfecting presentations, all in a slim, lightweight design.",
+            "Mistakes happen. That’s why this full size keyboard is spill resistant. And, this laptop passed 15 military certification tests (MIL-810H) to help ensure it can handle the day-to-day wear and tear.",
+            "Thanks to 12th Gen Intel® Core™ Processors, this laptop runs at peak performance to get you through the day. Doing some graphics-heavy work? Optional NVIDIA® GeForce® MX570 Graphics with 2GB GDDR6 vRAM (coming soon) give you the boost you need.",
+            "Impressions matter. Sound as clear as a phone call with built in dual mic and AI that reduces background noise. When you’re on camera, the new FHD webcam equipped with Wide Dynamic Range and Temporal Noise Reduction helps you look your best."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "laptop",
+        "service_tag": "latitude 5430",
+        "model": "16",
+        "price": 126263,
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-5430/media-gallery/laptop-latitude-14-5430-gray-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=566&qlt=100,1&resMode=sharp2&size=566,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-5430/media-gallery/laptop-latitude-14-5430-gray-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=686&qlt=100,1&resMode=sharp2&size=686,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-5430/media-gallery/laptop-latitude-14-5430-gray-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=686&qlt=100,1&resMode=sharp2&size=686,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-5430/pdp/laptop-latitude-14-5430-pdp-module-5.psd?wid=950&hei=781&fmt=png-alpha&qlt=90%2c0&op_usm=1.75%2c0.3%2c2%2c0&resMode=sharp&pscan=auto&fit=constrain%2c1&align=0%2c0",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-5430/media-gallery/laptop-latitude-14-5430-gray-gallery-8.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=573&qlt=100,1&resMode=sharp2&size=573,402&chrss=full",
+        "configuration": "12th Gen Intel® Core™ i7-1255U",
+        "specifications": {
+            "processor": "12th Gen Intel® Core™ i7-1255U, vPro® Essentials (12MB, 10 cores, 12 threads, up to 4.70 GHz Turbo)",
+            "os": "Windows 11 Pro, English",
+            "video_card": "i7-1255U Trans, Integrated Intel Iris Xe Graphics, Thunderbolt",
+            "memory": "16 GB, 2 x 8 GB, DDR4, 3200 MT/s, dual-channel, Non-ECC",
+            "display": "14.0 FHD (1920x1080) Anti Glare, Non-Touch, WVA, 250 nits, FHD IR Camera, WWAN",
+            "keyboard": "Keyboard Included (ICC)"
+        },
+        "performance": [
+            "Wi-Fi 6E allows 7 more channels for more bandwidth which provides faster, smoother Wi-Fi, especially in high-density areas while 4G LTE options keep you connected wherever you work.",
+            "Long battery life with ExpressCharge that provides up to 80% charge within 60 minutes.",
+            "Be on 2 networks at once with the world’s first simultaneous multi-network connection for faster data and video downloads Get up to 20% more in data transfer from optimized networking, 30% faster application data processing and 8 times better video quality from optimized internet bandwidth",
+            "Enable maximum productivity in more places with 12th Gen Intel®️ up to Core™️ i7 U-series processors and available Intel vPro®."
+        ]
+    },
+    {
+        "id": 5,
+        "name": "laptop",
+        "service_tag": "latitude 5540",
+        "model": "16",
+        "price": 131008,
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-15-5540-laptop/media-gallery/notebook-latitude-15-5540-t-ir-silver-gallery-12.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=645&qlt=100,1&resMode=sharp2&size=645,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-15-5540-laptop/media-gallery/notebook-latitude-15-5540-t-ir-silver-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=649&qlt=100,1&resMode=sharp2&size=649,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-15-5540-laptop/media-gallery/notebook-latitude-15-5540-nt-rgb-silver-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=652&qlt=100,1&resMode=sharp2&size=652,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-15-5540-laptop/media-gallery/notebook-latitude-15-5540-nt-silver-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=523&qlt=100,1&resMode=sharp2&size=523,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-15-5540-laptop/media-gallery/notebook-latitude-15-5540-nt-silver-gallery-10.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=558&qlt=100,1&resMode=sharp2&size=558,402&chrss=full",
+        "configuration": "13th Gen Intel® Core™ i5-1345U, vPro®",
+        "specifications": {
+            "processor": "13th Gen Intel® Core™ i5-1345U, vPro® (12 MB cache, 10 cores, 12 threads, up to 4.70 GHz Turbo)",
+            "os": "Windows 11 Pro, English",
+            "video_card": "Intel 13th Generation i5-1345U vPro, Intel Integrated Graphics, TBT4",
+            "memory": "16 GB, 2 x 8 GB, DDR4, 3200 MT/s, dual-channel, Non-ECC",
+            "display": "15.6 FHD (1920x1080) Non-Touch, AG, IPS, 250 nits, FHD Cam, WLAN",
+            "keyboard": "Single Pointing Non-Backlit US International Keyboard with numeric keypad"
+        },
+        "performance": [
+            "Enable maximum productivity in more places and additional built-in hardware security with Intel vPro®, running on 13th Gen Intel® Core™ U-series or P-series​ processors",
+            "Fast response time and improved performance with optional DDR5 memory up to 64GB",
+            "NVIDIA® MX550 discrete graphic card options accelerate your laptop performance",
+            "Next-gen batteries with ExpressCharge analyze usage to extend run time and charge faster when you need a boost in power. Advanced Charge prevents overcharging to extend battery life"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "laptop",
+        "service_tag": "latitude 5710",
+        "model": "16",
+        "price": 148858,
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-13-7340-laptop-2-in-1/media-gallery/notebook-latitude-13-7340-t-gray-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=568&qlt=100,1&resMode=sharp2&size=568,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-13-7340-laptop-2-in-1/media-gallery/notebook-latitude-13-7340-t-gray-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=700&qlt=100,1&resMode=sharp2&size=700,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-13-7340-laptop-2-in-1/media-gallery/notebook-latitude-13-7340-t-fpr-gray-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=490&qlt=100,1&resMode=sharp2&size=490,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-13-7340-laptop-2-in-1/media-gallery/notebook-latitude-13-7340-t-wwan-gray-gallery-7.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=413&qlt=100,1&resMode=sharp2&size=413,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/images/products/laptops-and-2-in-1s/latitude/13-7340-2n1-ms/la7340t-ms-ctb-00180bf090-gy.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=562&qlt=100,1&resMode=sharp2&size=562,402&chrss=full",
+        "configuration": "13th Gen Intel® Core™ i5-1345U, vPro®",
+        "specifications": {
+            "processor": "13th Gen Intel® Core™ i5-1345U, vPro® (12 MB cache, 10 cores, 12 threads, up to 4.70 GHz Turbo)",
+            "os": "Windows 11 Pro, English",
+            "video_card": "Intel®Iris®Xe Graphics,i5-1345U vPro Processor,16GB LPDDR5 Memory",
+            "memory": "16 GB, LPDDR5, 4800 MT/s, integrated",
+            "display": "Laptop 13.3 FHD+ (1920x1200) AG, No-Touch, WVA, 250 nits, FHD IR Cam+IP, WLAN, Aluminum",
+            "keyboard": "English International non-backlit keyboard, 79-key"
+        },
+        "performance": [
+            "Latitude 7340 Ultralight is Dell's smallest and lightest 33.78 cm (13.3-inch) premium commercial laptop – ideal for busy professionals on the move.",
+            "In addition to the ultralight magnesium chassis in a stunning River color, the Latitude 7340 is also available in aluminum in a modern Titan Gray color.",
+            "Available in either a laptop or 2-in-1 form factor. With a 2-in-1 form factor, you have the ability to work your way with four different modes – traditional laptop, tent, stand or tablet mode.",
+            "First-ever Latitude 7000 generation made with low-carbon aluminum using 50% recycled material in the chassis."
+        ]
+    },
+    {
+        "id": 7,
+        "name": "laptop",
+        "service_tag": "inspiron 16",
+        "model": "16",
+        "price": 69989,
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/16-5620/media-gallery/notebook-inspiron-16-5620-2-in-1-gy-fpr-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=570&qlt=100,1&resMode=sharp2&size=570,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/16-5620/media-gallery/notebook-inspiron-16-5620-2-in-1-gy-fpr-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=598&qlt=100,1&resMode=sharp2&size=598,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/16-5620/media-gallery/notebook-inspiron-16-5620-2-in-1-gy-fpr-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=500&qlt=100,1&resMode=sharp2&size=500,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/16-5620/media-gallery/notebook-inspiron-16-5620-gy-gallery-6.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=405&qlt=100,1&resMode=sharp2&size=405,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/16-5620/media-gallery/notebook-inspiron-16-5620-gy-gallery-8.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=535&qlt=100,1&resMode=sharp2&size=535,402&chrss=full",
+        "configuration": "12th Gen Intel® Core™ i5-1235U",
+        "specifications": {
+            "processor": "12th Gen Intel® Core™ i5-1235U (12 MB cache, 10 cores, 12 threads, up to 4.40 GHz Turbo)",
+            "os": "Windows 11 Home Single Language, English",
+            "video_card": "Intel® Iris® Xe Graphics",
+            "memory": "16 GB, 2 x 8 GB, DDR4, 3200 MHz",
+            "display": "16.0-inch 16:10 FHD+ (1920 x 1200) Anti-Glare Non-Touch 250nits WVA Display with ComfortView Support",
+            "keyboard": "Titan Gray English International Backlit Keyboard"
+        },
+        "performance": [
+            "Connect with power and speed with the the latest 12th Gen Intel® Core™ processors and WiFi 6. Want a little extra graphic muscle? Optional NVIDIA discreate graphics give your visuals a boost.",
+            "A lid-open sensor turns on your device in a snap, and a fingerprint reader logs you in securely and instantly.",
+            "A variety of ports, including Type-C™, keep you connected to all your devices without extra dongles.",
+            "ExpressCharge powers your device up to 80% in an hour, so you aren't tethered an outlet."
+        ]
+    },
+    {
+        "id": 8,
+        "name": "laptop",
+        "service_tag": "inspiron 14",
+        "model": "14",
+        "price": 85389,
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/14-5430-intel/media-gallery/silver/non-touch-2-piece-metal/in5430nt-cnb-00000ff090-sl-2pc.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=651&qlt=100,1&resMode=sharp2&size=651,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/14-5430-intel/media-gallery/silver/non-touch-2-piece-metal/in5430nt-cnb-00055rf110-sl-nonfpr-2pc.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/14-5430-intel/media-gallery/silver/non-touch-2-piece-metal/in5430nt-cnb-00055lf110-sl-nonfpr-2pc.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/14-5430-intel/media-gallery/silver/non-touch-2-piece-metal/in5430nt-cnb-90000td090-sl-nonfpr-2pc.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/14-5430-intel/media-gallery/silver/non-touch-2-piece-metal/in5430nt-cnb-00180bf090-sl-2pc.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
+        "configuration": "13th Gen Intel® Core™ i7-1355U",
+        "specifications": {
+            "processor": "13th Gen Intel® Core™ i7-1355U (12 MB cache, 10 cores, 12 threads, up to 5.00 GHz Turbo)",
+            "os": "Windows 11 Home Single Language, English",
+            "video_card": "Intel® Iris® Xe Graphics",
+            "memory": "16GB, 2x8GB, 4800MHz LPDDR5 Memory Onboard",
+            "display": "14.0-inch 16:10 FHD+ (1920 x 1200) Anti-Glare Non-Touch 250nits WVA Display with ComfortView Support",
+            "keyboard": "Titan Gray English International Backlit Keyboard"
+        },
+        "performance": [
+            "Experience your content fully from anywhere with loud and clear audio from Inspiron 14's speakers. Listen to podcasts and playlists from your phone on your PC using a Bluetooth connection.",
+            "ExpressSign-in paired with Windows Hello streamlines your login experience with presence detection technology.",
+            "It wakes up your PC when you approach and locks it when you walk away. Plus, when an onlooker tries to view your screen from beside you or behind you, your PC automatically texturizes your screen for privacy and dims it when you look away.",
+            "Together, Windows 11 and Dell PCs create a best-in-class experience."
+        ]
+    },
+    {
+        "id": 9,
+        "name": "laptop",
+        "service_tag": "inspiron 16 plus",
+        "model": "16",
+        "price": "168989",
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/16-7630-plus-intel/media-gallery/notebook-inspiron-16-7630-nt-ff-emza-fpr-silver-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=558&qlt=100,1&resMode=sharp2&size=558,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/16-7630-plus-intel/media-gallery/notebook-inspiron-16-7630-nt-xnb-fpr-p-silver-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=528&qlt=100,1&resMode=sharp2&size=528,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/16-7630-plus-intel/media-gallery/notebook-inspiron-16-7630-nt-td-fhd-fpr-silver-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=474&qlt=100,1&resMode=sharp2&size=474,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/16-7630-plus-intel/media-gallery/notebook-inspiron-16-7630-nt-rb-e-silver-gallery-6.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=657&qlt=100,1&resMode=sharp2&size=657,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/16-7630-plus-intel/media-gallery/notebook-inspiron-16-7630-nt-bf-silver-gallery-10.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=562&qlt=100,1&resMode=sharp2&size=562,402&chrss=full",
+        "configuration": "13th Generation Intel® Core™ i7-13700H Processor",
+        "specifications": {
+            "processor": "13th Generation Intel® Core™ i7-13700H Processor (24MB Cache, up to 5.0 GHz)",
+            "os": "Windows 11 Home Single Language, English",
+            "video_card": "NVIDIA® GeForce RTX™ 4060, 8 GB GDDR6",
+            "memory": "16 GB, 2 x 8 GB, DDR5, 4800 MHz",
+            "display": "16.0-inch 16:10 2.5K(2560x1600) Anti-Glare Non-Touch 300nits WVA Display w/ ComfortView Plus Support",
+            "keyboard": "Titan Gray English International Backlit Keyboard"
+        },
+        "performance": [
+            "Maximize your influence with a performance-focused machine. Unleash your creativity with 13th Gen Intel® Core™ H-series processors as you rapidly multitask and switch apps with ease. Get 50% more bandwidth while using the latest generation of memory .",
+            "NVIDIA® GeForce® RTX discrete graphics cards give enhanced performance in content creation apps.",
+            "A 16:10 aspect ratio on a 16-inch display within the width of a 15-inch laptop gives you a taller screen to view more content.",
+            "Take full advantage of HDR content’s superior dynamic range with the infinitely deep blacks and dazzling brights of Dolby Vision. Dell ComfortView Plus."
+        ]
+    },
+    {
+        "id": 10,
+        "name": "laptop",
+        "service_tag": "new inspiron 15",
+        "model": "15",
+        "price": 64390,
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3530-intel/media-gallery/black/notebook-inspiron-15-3530-nt-plastic-black-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=606&qlt=100,1&resMode=sharp2&size=606,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3530-intel/media-gallery/black/notebook-inspiron-15-3530-nt-plastic-usbc-data-black-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=642&qlt=100,1&resMode=sharp2&size=642,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3530-intel/media-gallery/black/notebook-inspiron-15-3530-nt-plastic-black-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=656&qlt=100,1&resMode=sharp2&size=656,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3530-intel/media-gallery/black/notebook-inspiron-15-3530-nt-plastic-black-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=553&qlt=100,1&resMode=sharp2&size=553,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3530-intel/media-gallery/black/notebook-inspiron-15-3530-nt-plastic-black-gallery-10.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=593&qlt=100,1&resMode=sharp2&size=593,402&chrss=full",
+        "configuration": "13th Gen Intel® Core™ i5-1335U",
+        "specifications": {
+            "processor": "13th Gen Intel® Core™ i5-1335U (12 MB cache, 10 cores, 12 threads, up to 4.60 GHz Turbo)",
+            "os": "Windows 11 Home Single Language, English",
+            "video_card": "Intel® UHD Graphics",
+            "memory": "8 GB, 1 x 8 GB, DDR4, 2666 MHz",
+            "display": "15.6, FHD 1920x1080, 120Hz, WVA, Non-Touch, Anti-Glare, 250 nit, Narrow Border, LED-Backlit",
+            "keyboard": "English International non-backlit keyboard with numeric keypad"
+        },
+        "performance": [
+            "The New Inspiron 15 is as stylish on the outside as it is efficient on the inside. Built with up to 13th Gen Intel® processors, you can finish your to-do list in no time.",
+            "Adaptive thermals keep your PC running efficiently, whether at your desk or working from your lap. Your Inspiron 15 intelligently adjusts its power and thermals to keep running smoothly, using advanced algorithms and accelerometers.",
+            "Your Inspiron 15 is designed with sustainable materials and ships in packaging made from 100% recycled and renewable materials and is 100% recyclable.",
+            "An inspiring new look and feel makes for a calmer desktop. Snap assistant helps focus your workflow while desktops allow you to organize your open windows."
+        ]
+    },
+    {
+        "id": 11,
+        "name": "desktop",
+        "serice_tag": "inspiron",
+        "model": "inspiron 3020 small desktop",
+        "price": 48989,
+        "img1": "https://i.dell.com/sites/csimages/App-Merchandizing_Images/en/indhs-Inspiron-3020-Small-desktop.png?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/inspiron-3020s-mlk/media-gallery/desktop-inspiron-3020-sff-blue-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=197&qlt=100,1&resMode=sharp2&size=197,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/inspiron-3020s-mlk/media-gallery/desktop-inspiron-3020-sff-blue-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=197&qlt=100,1&resMode=sharp2&size=197,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/inspiron-3020s-mlk/media-gallery/desktop-inspiron-3020-sff-blue-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=131&qlt=100,1&resMode=sharp2&size=131,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/inspiron-3020s-mlk/media-gallery/desktop-inspiron-3020-sff-blue-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1366&hei=4117&qlt=100,1&resMode=sharp2&size=1366,4117&chrss=full&imwidth=5000",
+        "configuration": "13th Gen Intel® Core™ i3-13100",
+        "specifications": {
+            "processor": "13th Gen Intel® Core™ i3-13100 (12 MB cache, 4 cores, 8 threads, 3.40 GHz to 4.50 GHz Turbo)",
+            "os": "Windows 11 Home Single Language, English",
+            "video_card": "Intel® UHD Graphics 730",
+            "memory": "8 GB, 1 x 8 GB, DDR4, 3200 MHz",
+            "display": "Dell 22 Monitor - E2222H",
+            "keyboard": "Dell Wired Keyboard KB216 Black (US/International)"
+        },
+        "performance": [
+            "The Inspiron Small Desktop packs great performance features and capabilities into a small chassis designed to seamlessly fit in any space.",
+            "Easily connect to other monitors with HDMI and Display Ports that support up to three FHD monitors or one 4K monitor.",
+            "When time is of the essence, Wi-Fi 6 delivers a greater and more stable browsing experience and faster transfer speeds.",
+            "Call, chat, and make plans come to life with Teams on Windows 11 right from your PC regardless of what computer or phone or tablet they are on."
+        ]
+    },
+    {
+        "id": 12,
+        "name": "desktop",
+        "serice_tag": "inspiron 24",
+        "model": "inspiron 24 5420 AIO desktop",
+        "price": 74490,
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=546&qlt=100,1&resMode=sharp2&size=546,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=548&qlt=100,1&resMode=sharp2&size=548,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=541&qlt=100,1&resMode=sharp2&size=541,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-7.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4122&hei=1185&qlt=100,1&resMode=sharp2&size=4122,1185&chrss=full&imwidth=5000",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-9.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=481&qlt=100,1&resMode=sharp2&size=481,402&chrss=full",
+        "configuration": "13th Gen Intel® Core™ i5-1335U",
+        "specifications": {
+            "processor": "13th Gen Intel® Core™ i5-1335U (12 MB cache, 10 cores, 12 threads, up to 4.60 GHz Turbo)",
+            "os": "Windows 11 Home Single Language, English",
+            "video_card": "Intel® UHD Graphics",
+            "memory": "8 GB, 1 x 8 GB, DDR4, 3200 MHz",
+            "display": "23.8-inch FHD (1920 x 1080) Anti-Glare Narrow Border Infinity Non-Touch Display",
+            "keyboard": "Dell Pro Wireless Keyboard and Mouse US English - KM5221W - White"
+        },
+        "performance": [
+            "The Inspiron 24 All-in-One is easy to use and designed with intention. This sleek desktop offers a front screen experience that's perfect for all your entertainment or productivity needs.",
+            "This all-in-one display features ComfortView Plus to help reduce harmful blue light and a flicker-free panel to optimise eye comfort.",
+            "The FHD IPS (in-plane switching) display features 99% sRGB within a narrow border so you can work, stream or game while enjoying a pleasant front screen experience.",
+            "Keep your area clutter free with an innovative stand that has the perfect keyboard parking space underneath the display."
+        ]
+    },
+    {
+        "id": 13,
+        "name": "desktop",
+        "serice_tag": "inspiron 24",
+        "model": "inspiron 24 5420 AIO desktop",
+        "price": 58990,
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=541&qlt=100,1&resMode=sharp2&size=541,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=546&qlt=100,1&resMode=sharp2&size=546,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=548&qlt=100,1&resMode=sharp2&size=548,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-7.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=1398&qlt=100,1&resMode=sharp2&size=1398,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-9.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=481&qlt=100,1&resMode=sharp2&size=481,402&chrss=full",
+        "configuration": "13th Gen Intel® Core™ i3-1315U",
+        "specifications": {
+            "processor": "13th Gen Intel® Core™ i3-1315U (10 MB cache, 6 cores, 8 threads, up to 4.50 GHz Turbo)",
+            "os": "Windows 11 Home Single Language, English",
+            "video_card": "Intel® UHD Graphics",
+            "memory": "8 GB, 1 x 8 GB, DDR4, 3200 MHz",
+            "display": "23.8-inch FHD (1920 x 1080) Anti-Glare Narrow Border Infinity Non-Touch Display",
+            "keyboard": "Dell Pro Wireless Keyboard and Mouse US English - KM5221W - White"
+        },
+        "performance": [
+            "This all-in-one display features ComfortView Plus to help reduce harmful blue light and a flicker-free panel to optimise eye comfort.",
+            "The FHD IPS (in-plane switching) display features 99% sRGB within a narrow border so you can work, stream or game while enjoying a pleasant front screen experience.",
+            "Keep your area clutter free with an innovative stand that has the perfect keyboard parking space underneath the display.",
+            "This All-in-One features the latest 13th Gen Intel® Core™ Processors with multiple storage options to choose from for all your files, photos and videos."
+        ]
+    },
+    {
+        "id": 14,
+        "name": "desktop",
+        "serice_tag": "inspiron small",
+        "model": "inspiron 24 5420 AIO desktop",
+        "price": 62989,
+        "img1": "https://i.dell.com/sites/csimages/App-Merchandizing_Images/en/indhs-Inspiron-3020-Small-desktop.png?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/inspiron-3020s-mlk/media-gallery/desktop-inspiron-3020-sff-blue-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=197&qlt=100,1&resMode=sharp2&size=197,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/inspiron-3020s-mlk/media-gallery/desktop-inspiron-3020-sff-blue-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=197&qlt=100,1&resMode=sharp2&size=197,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/inspiron-3020s-mlk/media-gallery/desktop-inspiron-3020-sff-blue-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=131&qlt=100,1&resMode=sharp2&size=131,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/inspiron-3020s-mlk/media-gallery/desktop-inspiron-3020-sff-blue-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=133&qlt=100,1&resMode=sharp2&size=133,402&chrss=full",
+        "configuration": "13th Gen Intel® Core™ i5-13400",
+        "specifications": {
+            "processor": "13th Gen Intel® Core™ i5-13400 (20 MB cache, 10 cores, 16 threads, 2.50 GHz to 4.60 GHz Turbo)",
+            "os": "Windows 11 Home Single Language, English",
+            "video_card": "Intel® UHD Graphics 730",
+            "memory": "8 GB, 1 x 8 GB, DDR4, 3200 MHz",
+            "display": "Dell 22 Monitor - E2222H",
+            "keyboard": "Dell Wired Keyboard KB216 Black (US/International)"
+        },
+        "performance": [
+            "Bigger doesn't always mean better. The Inspiron Small Desktop comes with the latest 13th Gen Intel® Core™ Processors and up to 16GB DDR4 memory, all in a compact design.",
+            "The Inspiron Small Desktop packs great performance features and capabilities into a small chassis designed to seamlessly fit in any space.",
+            "Easily connect to other monitors with HDMI and Display Ports that support up to three FHD monitors or one 4K monitor.",
+            "Call, chat, and make plans come to life with Teams on Windows 11 right from your PC regardless of what computer or phone or tablet they are on."
+        ]
+    },
+    {
+        "id": 15,
+        "name": "desktop",
+        "serice_tag": "inspiron 24 all-in-one",
+        "model": "inspiron 24 5420 AIO desktop",
+        "price": 95989,
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=541&qlt=100,1&resMode=sharp2&size=541,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=546&qlt=100,1&resMode=sharp2&size=546,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=548&qlt=100,1&resMode=sharp2&size=548,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=325&qlt=100,1&resMode=sharp2&size=325,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-6.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=325&qlt=100,1&resMode=sharp2&size=325,402&chrss=full",
+        "configuration": "13th Gen Intel® Core™ i7-1355U",
+        "specifications": {
+            "processor": "13th Gen Intel® Core™ i7-1355U (12 MB cache, 10 cores, 12 threads, up to 5.00 GHz Turbo)",
+            "os": "Windows 11 Home Single Language, English",
+            "video_card": "Intel® Iris® Xe Graphics",
+            "memory": "16 GB, 2 x 8 GB, DDR4, 3200 MHz",
+            "display": "23.8-inch FHD (1920 x 1080) Anti-Glare Narrow Border Infinity Non-Touch Display",
+            "keyboard": "Dell Pro Wireless Keyboard and Mouse US English - KM5221W - White"
+        },
+        "performance": [
+            "This all-in-one display features ComfortView Plus to help reduce harmful blue light and a flicker-free panel to optimise eye comfort.",
+            "The FHD IPS (in-plane switching) display features 99% sRGB within a narrow border so you can work, stream or game while enjoying a pleasant front screen experience.",
+            "Keep your area clutter free with an innovative stand that has the perfect keyboard parking space underneath the display.",
+            "Put your best face forward, even in high-contrast lighting, with Wide Dynamic Range on this FHD camera with a tilt feature that's adjustable up to 20°."
+        ]
+    },
+    {
+        "id": 16,
+        "name": "desktop",
+        "serice_tag": "alienware aurora r15 gaming desktop",
+        "model": "15",
+        "price": 563390,
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/alienware-desktops/alienware-aurora-r15-intel/media-gallery/lunar-light-wh-clear-cryo-tech/desktop-alienware-aurora-r15-white-cryo-clear-panel-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=168&qlt=100,1&resMode=sharp2&size=168,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/alienware-desktops/alienware-aurora-r15-intel/media-gallery/lunar-light-wh-clear-cryo-tech/desktop-alienware-aurora-r15-white-cryo-clear-panel-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=347&qlt=100,1&resMode=sharp2&size=347,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/alienware-desktops/alienware-aurora-r15-intel/media-gallery/lunar-light-wh-clear-cryo-tech/desktop-alienware-aurora-r15-white-cryo-clear-panel-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=251&qlt=100,1&resMode=sharp2&size=251,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/alienware-desktops/alienware-aurora-r15-intel/media-gallery/lunar-light-wh-clear-cryo-tech/desktop-alienware-aurora-r15-white-cryo-clear-panel-gallery-9.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=393&qlt=100,1&resMode=sharp2&size=393,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/alienware-desktops/alienware-aurora-r15-intel/media-gallery/lunar-light-wh-clear-cryo-tech/desktop-alienware-aurora-r15-white-cryo-clear-panel-gallery-8.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=393&qlt=100,1&resMode=sharp2&size=393,402&chrss=full",
+        "configuration": "13th Gen Intel® Core™ i9 13900KF",
+        "specifications": {
+            "processor": "13th Gen Intel® Core™ i9 13900KF (24-Core, 68MB Cache, 3.0GHz to 5.8GHz P-Core Thermal Velocity)",
+            "os": "Windows 11 Home Single Language, English",
+            "video_card": "NVIDIA® GeForce RTX™ 4090, 24 GB GDDR6X",
+            "memory": "32 GB, 2 x 16 GB, DDR5, 4800 MHz",
+            "display": "512 GB, M.2, PCIe NVMe, SSD (boot) + 1 TB, 7200 RPM, SATA, HDD (storage)",
+            "keyboard": "Keyboard Not Included"
+        },
+        "performance": [
+            "You asked for more cooling. Increased power. And better acoustics. We listened. Our improvements in Aurora R15 achieve 5% lower CPU temperatures while delivering 68% more power, enabling passionate gamers to play to their max potential.",
+            "Our liquid cooling provides exceptional thermal performance and exclusive AlienFX lighting features — to keep you gaming uninterrupted, in style.",
+            "All configurations feature two fans pulling cool air in and three fans pushing hot air out, for improved airflow throughout.",
+            "New honeycomb-shaped vents, standard for all configurations, provide GPUs with access to air from the side, increasing intake efficiency."
+        ]
+    },
+    {
+        "id": 17,
+        "name": "desktop",
+        "serice_tag": "alienware aurora r15 gaming desktop",
+        "model": "15",
+        "price": 406990,
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/alienware-desktops/alienware-aurora-r15-intel/media-gallery/lunar-light-wh-clear-cryo-tech/desktop-alienware-aurora-r15-white-cryo-clear-panel-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1540&hei=3695&qlt=100,1&resMode=sharp2&size=1540,3695&chrss=full&imwidth=5000",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/alienware-desktops/alienware-aurora-r15-intel/media-gallery/lunar-light-wh-clear-cryo-tech/desktop-alienware-aurora-r15-white-cryo-clear-panel-gallery-9.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=393&qlt=100,1&resMode=sharp2&size=393,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/alienware-desktops/alienware-aurora-r15-intel/media-gallery/lunar-light-wh-clear-cryo-tech/desktop-alienware-aurora-r15-white-cryo-clear-panel-gallery-8.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=393&qlt=100,1&resMode=sharp2&size=393,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/alienware-desktops/alienware-aurora-r15-intel/media-gallery/lunar-light-wh-clear-cryo-tech/desktop-alienware-aurora-r15-white-cryo-clear-panel-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=347&qlt=100,1&resMode=sharp2&size=347,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/alienware-desktops/alienware-aurora-r15-intel/media-gallery/lunar-light-wh-clear-cryo-tech/desktop-alienware-aurora-r15-white-cryo-clear-panel-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=182&qlt=100,1&resMode=sharp2&size=182,402&chrss=full",
+        "configuration": "13th Gen Intel® Core™ i7 13700KF",
+        "specifications": {
+            "processor": "13th Gen Intel® Core™ i7 13700KF (16-Core, 54MB Cache, 3.4GHz to 5.4GHz P-Core Turbo Max 3.0)",
+            "os": "Windows 11 Home Single Language, English",
+            "video_card": "NVIDIA® GeForce RTX™ 4080, 16GB GDDR6X (For 1350W PSU configuration)",
+            "memory": "16 GB, 1 x 16 GB, DDR5, 4800 MHz",
+            "display": "512 GB, M.2, PCIe NVMe, SSD (boot) + 1 TB, 7200 RPM, SATA, HDD (storage)",
+            "keyboard": "Keyboard Not Included"
+        },
+        "performance": [
+            "You asked for more cooling. Increased power. And better acoustics. We listened. Our improvements in Aurora R15 achieve 5% lower CPU temperatures while delivering 68% more power, enabling passionate gamers to play to their max potential.",
+            "Our liquid cooling provides exceptional thermal performance and exclusive AlienFX lighting features — to keep you gaming uninterrupted, in style.",
+            "All configurations feature two fans pulling cool air in and three fans pushing hot air out, for improved airflow throughout.",
+            "New honeycomb-shaped vents, standard for all configurations, provide GPUs with access to air from the side, increasing intake efficiency."
+        ]
+    },
+    {
+        "id": 18,
+        "name": "desktop",
+        "serice_tag": "inspiron 27 all-in-one",
+        "model": "inspiron 27 7720 AIO desktop",
+        "price": 75790,
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/27-7720/media-gallery/gray/aio-desktop-inspiron-27-7720-gray-gallery-4-fb.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=541&qlt=100,1&resMode=sharp2&size=541,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/27-7720/media-gallery/gray/aio-desktop-inspiron-27-7720-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=527&qlt=100,1&resMode=sharp2&size=527,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/27-7720/media-gallery/gray/aio-desktop-inspiron-27-7720-gray-gallery-3-fb.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=530&qlt=100,1&resMode=sharp2&size=530,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/27-7720/media-gallery/gray/aio-desktop-inspiron-27-7720-gray-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=290&qlt=100,1&resMode=sharp2&size=290,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/27-7720/media-gallery/gray/aio-desktop-inspiron-27-7720-gray-gallery-6.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=290&qlt=100,1&resMode=sharp2&size=290,402&chrss=full",
+        "configuration": "13th Gen Intel® Core™ i5-1335U",
+        "specifications": {
+            "processor": "13th Gen Intel® Core™ i5-1335U (12 MB cache, 10 cores, 12 threads, up to 4.60 GHz Turbo)",
+            "os": "Windows 11 Home Single Language, English",
+            "video_card": "Intel® UHD Graphics",
+            "memory": "8 GB, 1 x 8 GB, DDR4, 3200 MHz",
+            "display": "512 GB, M.2, PCIe NVMe, SSD",
+            "keyboard": "Dell Premier Multi-Device Wireless Keyboard and Mouse - KM7321W"
+        },
+        "performance": [
+            "The Inspiron 27 All-in-One desktop combines style and practicality for a stunning front screen experience.",
+            "This all-in-one display features ComfortView Plus to help reduce harmful blue light and a flicker-free panel to optimise eye comfort.",
+            "The FHD IPS (in-plane switching) display features 99% sRGB within a narrow border so you can work, stream or game while enjoying a pleasant front screen experience.",
+            "Keep your area clutter free with a thoughtfully designed stand that has the perfect space for your keyboard."
+        ]
+    },
+    {
+        "id": 19,
+        "name": "desktop",
+        "serice_tag": "inspiron 24 all-in-one",
+        "model": "inspiron 24 5420 AIO desktop",
+        "price": 72490,
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/black/desktop-aio-inspiron-24-5420-black-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4501&hei=3250&qlt=100,1&resMode=sharp2&size=4501,3250&chrss=full&imwidth=5000",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/black/desktop-aio-inspiron-24-5420-black-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4436&hei=3185&qlt=100,1&resMode=sharp2&size=4436,3185&chrss=full&imwidth=5000",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/black/desktop-aio-inspiron-24-5420-black-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=546&qlt=100,1&resMode=sharp2&size=546,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/black/desktop-aio-inspiron-24-5420-black-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=337&qlt=100,1&resMode=sharp2&size=337,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/black/desktop-aio-inspiron-24-5420-black-gallery-9.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=489&qlt=100,1&resMode=sharp2&size=489,402&chrss=full",
+        "configuration": "13th Gen Intel® Core™ i5-1335U",
+        "specifications": {
+            "processor": "13th Gen Intel® Core™ i5-1335U (12 MB cache, 10 cores, 12 threads, up to 4.60 GHz Turbo)",
+            "os": "Windows 11 Home Single Language, English",
+            "video_card": "Intel® UHD Graphics",
+            "memory": "8 GB, 1 x 8 GB, DDR4, 3200 MHz",
+            "display": "512 GB, M.2, PCIe NVMe, SSD",
+            "keyboard": "Dell Pro Wireless Keyboard and Mouse - KM5221W - English - Black"
+        },
+        "performance": [
+            "The Inspiron 24 All-in-One is easy to use and designed with intention. This sleek desktop offers a front screen experience that's perfect for all your entertainment or productivity needs. It delivers a custom tailored sight with a flicker free panel and available with either a non-touch or touch screen.",
+            "Turn your Inspiron All-in-one into a Bluetooth speaker. You can connect your mobile device seamlessly with the AIO to play your favorite playlist or podcast and enjoy clear, rich and louder audio anywhere in the room without the need of a headset.",
+            "Put your best face forward, even in high-contrast lighting, with Wide Dynamic Range on this FHD camera with a tilt feature that's adjustable up to 20°. When you're ready for privacy, simply push the pop-up camera down to hide it.",
+            "This All-in-One features the latest 13th Gen Intel® Core™ Processors with multiple storage options to choose from for all your files, photos and videos."
+        ]
+    },
+    {
+        "id": 20,
+        "name": "desktop",
+        "serice_tag": "inspiron",
+        "model": "inspiron 24 5420 AIO desktop",
+        "price": 87989,
+        "img1": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=541&qlt=100,1&resMode=sharp2&size=541,402&chrss=full",
+        "img2": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=548&qlt=100,1&resMode=sharp2&size=548,402&chrss=full",
+        "img3": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=541&qlt=100,1&resMode=sharp2&size=541,402&chrss=full",
+        "img4": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-5.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=325&qlt=100,1&resMode=sharp2&size=325,402&chrss=full",
+        "img5": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/inspiron-desktops/24-5420/media-gallery/gray/desktop-aio-inspiron-24-5420-gray-gallery-7.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=1398&qlt=100,1&resMode=sharp2&size=1398,402&chrss=full",
+        "configuration": "13th Gen Intel® Core™ i5-1335U",
+        "specifications": {
+            "processor": "13th Gen Intel® Core™ i5-1335U (12 MB cache, 10 cores, 12 threads, up to 4.60 GHz Turbo)",
+            "os": "Windows 11 Home Single Language, English",
+            "video_card": "NVIDIA® GeForce® MX550, 2 GB GDDR6",
+            "memory": "16 GB, 2 x 8 GB, DDR4, 3200 MHz",
+            "display": "512 GB, M.2, PCIe NVMe, SSD",
+            "keyboard": "Dell Pro Wireless Keyboard and Mouse US English - KM5221W - White"
+        },
+        "performance": [
+            "This all-in-one display features ComfortView Plus to help reduce harmful blue light and a flicker-free panel to optimise eye comfort.",
+            "The FHD IPS (in-plane switching) display features 99% sRGB within a narrow border so you can work, stream or game while enjoying a pleasant front screen experience.",
+            "Keep your area clutter free with an innovative stand that has the perfect keyboard parking space underneath the display.",
+            "Put your best face forward, even in high-contrast lighting, with Wide Dynamic Range on this FHD camera with a tilt feature that's adjustable up to 20°. When you're ready for privacy, simply push the pop-up camera down to hide it."
+        ]
+    }
+]
